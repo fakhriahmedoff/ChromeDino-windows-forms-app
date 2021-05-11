@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\DinosaurGame\DinosaurGame\bin\Debug\netcoreapp3.1\DinosaurGame.exe
+C:\Users\ACER\source\repos\DinosaurGame\DinosaurGame\bin\Debug\netcoreapp3.1\DinosaurGame.deps.json
+C:\Users\ACER\source\repos\DinosaurGame\DinosaurGame\bin\Debug\netcoreapp3.1\DinosaurGame.runtimeconfig.json
+C:\Users\ACER\source\repos\DinosaurGame\DinosaurGame\bin\Debug\netcoreapp3.1\DinosaurGame.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\DinosaurGame\DinosaurGame\bin\Debug\netcoreapp3.1\DinosaurGame.dll
+C:\Users\ACER\source\repos\DinosaurGame\DinosaurGame\bin\Debug\netcoreapp3.1\DinosaurGame.pdb
+C:\Users\ACER\source\repos\DinosaurGame\DinosaurGame\obj\Debug\netcoreapp3.1\DinosaurGame.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\DinosaurGame\DinosaurGame\obj\Debug\netcoreapp3.1\DinosaurGame.Form1.resources
+C:\Users\ACER\source\repos\DinosaurGame\DinosaurGame\obj\Debug\netcoreapp3.1\DinosaurGame.Properties.Resources.resources
+C:\Users\ACER\source\repos\DinosaurGame\DinosaurGame\obj\Debug\netcoreapp3.1\DinosaurGame.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\DinosaurGame\DinosaurGame\obj\Debug\netcoreapp3.1\DinosaurGame.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\DinosaurGame\DinosaurGame\obj\Debug\netcoreapp3.1\DinosaurGame.AssemblyInfo.cs
+C:\Users\ACER\source\repos\DinosaurGame\DinosaurGame\obj\Debug\netcoreapp3.1\DinosaurGame.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\DinosaurGame\DinosaurGame\obj\Debug\netcoreapp3.1\DinosaurGame.dll
+C:\Users\ACER\source\repos\DinosaurGame\DinosaurGame\obj\Debug\netcoreapp3.1\DinosaurGame.pdb
+C:\Users\ACER\source\repos\DinosaurGame\DinosaurGame\obj\Debug\netcoreapp3.1\DinosaurGame.genruntimeconfig.cache
